@@ -8,7 +8,13 @@ First off all, install the required libraries using next command:
 sudo apt install libpcap0.8-dev libuv1-dev
 ```
 
-Once finished download from this repository lan-play binary and give execution permissions using next command:
+Once finished, download from this repository lan-play binary:
+
+```
+wget https://github.com/RetroGamer74/RaspberryLanPlayClient/raw/master/lan-play
+```
+
+and give execution permissions using next command:
 
 ```
 chmod 755 lan-play

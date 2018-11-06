@@ -28,5 +28,9 @@ If you want to play PS4 it should be:
 sudo ./lan-play --relay-server-addr lanplayps.retrogamer.tech:11451
 ```
 
+# Credits
 
+This lan-play client has been built for Raspberry based on @imspace original source code for lan-play.
+
+https://github.com/spacemeowx2/switch-lan-play
 

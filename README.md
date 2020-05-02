@@ -2,6 +2,8 @@
 
 This client is based on command line. Command line is the best approach for a device like raspberry. This client has been built using RASPBIAN STRETCH release. Only tested in RASPBIAN STRETCH.
 
+Get latest version from releases tab.
+
 First off all, install the required libraries using next command:
 
 ```

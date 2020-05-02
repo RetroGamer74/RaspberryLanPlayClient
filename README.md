@@ -4,6 +4,8 @@ This client is based on command line. Command line is the best approach for a de
 
 Get latest version from releases tab.
 
+Remember to use the parameter --pmtu 1000 or --pmtu 500 . What you have to use, depends on several things. So if what you're trying doesn't work, try to change pmtu to the contrary value.
+
 First off all, install the required libraries using next command:
 
 ```
